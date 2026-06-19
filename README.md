@@ -1,4 +1,4 @@
-## Hi👋 I am Sayan Ghosh
+## Hi 👋, I'm Sayan Ghosh
 
 <!--
 **sayanghosh9748/sayanghosh9748** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
